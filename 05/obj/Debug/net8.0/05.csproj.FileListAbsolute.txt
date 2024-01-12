@@ -1,0 +1,15 @@
+/home/okostadinov/Development/advent-of-code/2016/05/bin/Debug/net8.0/05
+/home/okostadinov/Development/advent-of-code/2016/05/bin/Debug/net8.0/05.deps.json
+/home/okostadinov/Development/advent-of-code/2016/05/bin/Debug/net8.0/05.runtimeconfig.json
+/home/okostadinov/Development/advent-of-code/2016/05/bin/Debug/net8.0/05.dll
+/home/okostadinov/Development/advent-of-code/2016/05/bin/Debug/net8.0/05.pdb
+/home/okostadinov/Development/advent-of-code/2016/05/obj/Debug/net8.0/05.GeneratedMSBuildEditorConfig.editorconfig
+/home/okostadinov/Development/advent-of-code/2016/05/obj/Debug/net8.0/05.AssemblyInfoInputs.cache
+/home/okostadinov/Development/advent-of-code/2016/05/obj/Debug/net8.0/05.AssemblyInfo.cs
+/home/okostadinov/Development/advent-of-code/2016/05/obj/Debug/net8.0/05.csproj.CoreCompileInputs.cache
+/home/okostadinov/Development/advent-of-code/2016/05/obj/Debug/net8.0/05.sourcelink.json
+/home/okostadinov/Development/advent-of-code/2016/05/obj/Debug/net8.0/05.dll
+/home/okostadinov/Development/advent-of-code/2016/05/obj/Debug/net8.0/refint/05.dll
+/home/okostadinov/Development/advent-of-code/2016/05/obj/Debug/net8.0/05.pdb
+/home/okostadinov/Development/advent-of-code/2016/05/obj/Debug/net8.0/05.genruntimeconfig.cache
+/home/okostadinov/Development/advent-of-code/2016/05/obj/Debug/net8.0/ref/05.dll
